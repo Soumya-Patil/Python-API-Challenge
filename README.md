@@ -54,5 +54,5 @@ Project is created with:
 * Google Places API 
 
 ## Setup
-To run this project, Download both the folders locally and have the dependencies installed using Conda .
+To run this project, Download both the folders locally and run the files with ipynb extension in VS code or Jupyter notebook.
 
