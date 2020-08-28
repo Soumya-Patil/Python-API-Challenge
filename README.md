@@ -9,10 +9,7 @@ This Project runs a Python Script which  Visualizes the weather of 500+ cities a
 Randomly selects  at least 500 unique (non-repeat) cities based on latitude and longitude.
 Performs a weather check on each of the cities using a series of successive API calls.
 Includes a print log of each city as it's being processed with the city number and city name.
-Saves a CSV of all retrieved data and a PNG image for each scatter plot.
-
-
-Also it looks into a series of scatter plots to showcase the following relationships:
+Saves a CSV of all retrieved data and a PNG image for each scatter plot below and showcases the following relationships:
 
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
